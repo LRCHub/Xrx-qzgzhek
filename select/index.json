@@ -1,152 +1,144 @@
 {
   "version": 1,
-  "base_track": "King Gnu - 飛行艇",
-  "base_artist": "King Gnu",
-  "createdAt": "2025-12-18T16:21:52.766968Z",
+  "base_track": "約束",
+  "base_artist": "Roselia",
+  "createdAt": "2026-02-06T01:20:13.806421Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "King Gnu - BOY",
-      "artist": "King Gnu",
+      "title": "約束 -Promise code-",
+      "artist": "GARNiDELiA",
       "has_synced": true,
-      "path": "select/01_King_Gnu_-_BOY_King_Gnu.lrc"
+      "path": "select/01_約束_-Promise_code-_GARNiDELiA.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "King Gnu - 白日",
-      "artist": "King Gnu",
+      "title": "約束~August, 10years later~",
+      "artist": "Zone",
       "has_synced": true,
-      "path": "select/02_King_Gnu_-_白日_King_Gnu.lrc"
+      "path": "select/02_約束~August,_10years_later~_Zone.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "King Gnu - The hole",
-      "artist": "King Gnu",
+      "title": "約束",
+      "artist": "Roselia",
       "has_synced": true,
-      "path": "select/03_King_Gnu_-_The_hole_King_Gnu.lrc"
+      "path": "select/03_約束_Roselia.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "King Gnu - どろん",
-      "artist": "King Gnu",
+      "title": "約束",
+      "artist": "Roselia",
       "has_synced": true,
-      "path": "select/04_King_Gnu_-_どろん_King_Gnu.lrc"
+      "path": "select/04_約束_Roselia.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "King Gnu - 傘  OFFICIAL AUDIO",
-      "artist": "King Gnu",
+      "title": "約束 〜August, 10years later〜",
+      "artist": "ZONE",
       "has_synced": true,
-      "path": "select/05_King_Gnu_-_傘_OFFICIAL_AUDIO_King_Gnu.lrc"
+      "path": "select/05_約束_〜August,_10years_later〜_ZONE.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "King Gnu - McDonald Romance",
-      "artist": "PERIMETRON",
-      "has_synced": true,
-      "path": "select/06_King_Gnu_-_McDonald_Romance_PERIMETRON.lrc"
+      "title": "約束 (TOHOSHINKI LIVE CD COLLECTION 〜Five in The Black〜)",
+      "artist": "TVXQ",
+      "has_synced": false,
+      "path": "select/06_約束_(TOHOSHINKI_LIVE_CD_COLLECTION_〜Five_in_The_Black〜)_TVXQ.txt"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "King Gnu - Teenager Forever",
-      "artist": "King Gnu",
+      "title": "約束",
+      "artist": "Akina Nakamori",
       "has_synced": true,
-      "path": "select/07_King_Gnu_-_Teenager_Forever_King_Gnu.lrc"
+      "path": "select/07_約束_Akina_Nakamori.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "King Gnu - BOY",
-      "artist": "King Gnu",
+      "title": "約束",
+      "artist": "Friends",
       "has_synced": true,
-      "path": "select/08_King_Gnu_-_BOY_King_Gnu.lrc"
+      "path": "select/08_約束_Friends.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "King Gnu - 飛行艇",
-      "artist": "King Gnu",
-      "has_synced": true,
-      "path": "select/09_King_Gnu_-_飛行艇_King_Gnu.lrc"
+      "title": "約束",
+      "artist": "Shiggy Jr.",
+      "has_synced": false,
+      "path": "select/09_約束_Shiggy_Jr..txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "King Gnu - 一途",
-      "artist": "King Gnu",
+      "title": "約束 ~August, 10years later~",
+      "artist": "ZONE",
       "has_synced": true,
-      "path": "select/10_King_Gnu_-_一途_King_Gnu.lrc"
+      "path": "select/10_約束_~August,_10years_later~_ZONE.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "King Gnu - Slumberland",
-      "artist": "King Gnu",
+      "title": "約束_ダーリン",
+      "artist": "Haruka Tomatsu",
       "has_synced": true,
-      "path": "select/11_King_Gnu_-_Slumberland_King_Gnu.lrc"
+      "path": "select/11_約束_ダーリン_Haruka_Tomatsu.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "CHAMELEON (King Gnu Dome Tour THE GREATEST UNKNOWN at TOKYO DOME)",
-      "artist": "King Gnu",
+      "title": "約束 ダーリン",
+      "artist": "戸松遥",
       "has_synced": true,
-      "path": "select/12_CHAMELEON_(King_Gnu_Dome_Tour_THE_GREATEST_UNKNOWN_at_TOKYO_DOME)_King_Gnu.lrc"
+      "path": "select/12_約束_ダーリン_戸松遥.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "King Gnu - あなたは蜃気楼",
-      "artist": "PERIMETRON",
-      "has_synced": true,
-      "path": "select/13_King_Gnu_-_あなたは蜃気楼_PERIMETRON.lrc"
+      "title": "約束",
+      "artist": "Sei",
+      "has_synced": false,
+      "path": "select/13_約束_Sei.txt"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "VIVID RED (King Gnu Dome Tour THE GREATEST UNKNOWN at TOKYO DOME)",
-      "artist": "King Gnu",
-      "has_synced": false,
-      "path": "select/14_VIVID_RED_(King_Gnu_Dome_Tour_THE_GREATEST_UNKNOWN_at_TOKYO_DOME)_King_Gnu.txt"
+      "title": "約束",
+      "artist": "MUCC",
+      "has_synced": true,
+      "path": "select/14_約束_MUCC.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "SPECIALZ - King Gnu Dome Tour THE GREATEST UNKNOWN at TOKYO DOME",
-      "artist": "King Gnu",
-      "has_synced": false,
-      "path": "select/15_SPECIALZ_-_King_Gnu_Dome_Tour_THE_GREATEST_UNKNOWN_at_TOKYO_DOME_King_Gnu.txt"
+      "title": "約束 (Original Karaoke)",
+      "artist": "MUCC",
+      "has_synced": true,
+      "path": "select/15_約束_(Original_Karaoke)_MUCC.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "King Gnu - 白日",
-      "artist": "King Gnu",
+      "title": "約束",
+      "artist": "Eir Aoi",
       "has_synced": true,
-      "path": "select/16_King_Gnu_-_白日_King_Gnu.lrc"
-    },
-    {
-      "id": "lrclib_17",
-      "source": "lrclib",
-      "title": "King Gnu - 飛行艇",
-      "artist": "King Gnu",
-      "has_synced": true,
-      "path": "select/17_King_Gnu_-_飛行艇_King_Gnu.lrc"
+      "path": "select/16_約束_Eir_Aoi.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "飛行艇",
-      "artist": "King Gnu",
+      "title": "約束",
+      "artist": "Roselia",
       "has_synced": false,
-      "path": "select/pl_01_飛行艇_King_Gnu.txt"
+      "path": "select/pl_01_約束_Roselia.txt"
     }
   ]
 }
